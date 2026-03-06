@@ -1,0 +1,6 @@
+train: .\forConversion\YOLODataset/images/train/
+val: .\forConversion\YOLODataset/images/val/
+
+nc: 2
+
+names: ['Quino', 'Raven']
