@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 forConversion/
+jpg_images/
+new_labels/
+.vscode/
 # C extensions
 *.so
 
